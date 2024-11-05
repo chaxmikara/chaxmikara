@@ -1,6 +1,7 @@
 # 💫 About Me:
 🌱 I’m currently working on a very secret project<br><br>👨‍💻 All of my projects are available at www.linkedin.com/in/chamikara-kodithuwakku-5a1532292<br><br>💬 Ask me about Java<br><br>📫 How to reach me chamikaradimuth22@gmail.com<br><br>⚡ Fun fact Call me as 'Chaami'
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/chamikara.dimuth) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cham.i_.xx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chamikara-kodithuwakku-5a1532292/) 
