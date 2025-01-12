@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Chamikara Kodithuwakku</h1>
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
+<picture>
+  <img align="right" src="https://private-user-images.githubusercontent.com/74038190/242390692-0b335028-1d3d-4ee5-b5b3-a373d499be7e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzY3MTE1MjUsIm5iZiI6MTczNjcxMTIyNSwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA2OTItMGIzMzUwMjgtMWQzZC00ZWU1LWI1YjMtYTM3M2Q0OTliZTdlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMTIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTEyVDE5NDcwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTk2MDdkNzgyODE0YTc2YTBkNmI0Njc5YTIyNzVkZDA5MDVhN2ViM2RlN2YyODJkZDM2MDEwODc0ZTU1NTIwMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.doCP68-5DLDRXzcPMXxKFjPdezHm1VE2gYLHN2wXt_8" width="250px">
+</picture>
 
 - 🌱 I’m currently learning **Flutter ,Spring Boot**
 - 🧑‍🎓 I’m an Undergraduate at Univerity Of Westminster
