@@ -70,7 +70,7 @@ hobbies: ["Gaming", "Coding", "Learning New Technologies", "Open Source"]
 
 <div align="center">
 
-<a href="https://bit.ly/chamikara-portfolio" target="_blank">
+<a href="https://poritfolio-chamikar-git-83a2e2-chamikara-kodithuwakkus-projects.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/chamikara-kodithuwakku-5a1532292/" target="_blank">
