@@ -1,8 +1,11 @@
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Chamikara%20Kodithuwakku&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Computer%20Science%20Student&descAlignY=51&descAlign=62)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Computer+Science+Student;Always+learning+new+technologies" alt="Typing Animation"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=chaxmikara&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/chaxmikara?label=Followers&style=social" alt="GitHub Followers" />
 
 </div>
 
@@ -50,6 +53,8 @@ hobbies: ["Gaming", "Coding", "Learning New Technologies", "Open Source"]
 
 ---
 
+
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -59,14 +64,15 @@ hobbies: ["Gaming", "Coding", "Learning New Technologies", "Open Source"]
 <br/>
 <img width="325" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaxmikara&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 
-</div>
 
----
 
 ## 🤝 Connect with Me
 
 <div align="center">
 
+<a href="https://bit.ly/chamikara-portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+</a>
 <a href="https://www.linkedin.com/in/chamikara-kodithuwakku-5a1532292/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
