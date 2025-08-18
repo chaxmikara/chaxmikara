@@ -86,11 +86,20 @@ hobbies: ["Gaming", "Coding", "Learning New Technologies", "Open Source"]
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
 </a>
 
+<br/><br/>
+
+### ☕ Support Me  
+
+<a href="https://www.buymeacoffee.com/chamikara" target="_blank">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" width="200"/>
+</a>
+<br></br>
+<img src="https://github.com/user-attachments/assets/c2d4301e-a85e-4e76-89f6-7d58d1ce0999" alt="bmc_qr" width="180"/>
+
+
+
 </div>
 
----
-
-<div align="center">
 
 ### ⭐ From [chaxmikara](https://github.com/chaxmikara)
 
