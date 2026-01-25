@@ -16,10 +16,10 @@
 ```yaml
 name: Chamikara Kodithuwakku
 located_in: Sri Lanka
-current_job: Computer Science Student
-education: ["University of Westminster"]
+current_job: Computer Science Student | Undergraduate Trainee Software Engineer@ IFS
+education: "University of Westminster", Informatics Institute of Technology
 currently_learning: ["Flutter", "Spring Boot", "Go", "Firebase"]
-2024_goals: ["Master Full Stack Development", "Build Amazing Projects"]
+2026_goals: ["Master Full Stack Development", "Build Amazing Projects" , Learning New Technologies]
 hobbies: ["Gaming", "Coding", "Learning New Technologies", "Open Source"]
 ```
 
